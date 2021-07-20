@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "DavidAnson.vscode-markdownlint",
+        "EditorConfig.EditorConfig",
+        "rickvansloten.bbcode",
+        "bierner.markdown-emoji",
+        "wmaurer.change-case",
+        "Vtrois.gitmoji-vscode"
+    ]
+}

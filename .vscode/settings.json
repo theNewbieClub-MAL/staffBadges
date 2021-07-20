@@ -1,0 +1,11 @@
+{
+    "prettier.printWidth": 100,
+    "prettier.endOfLine": "auto",
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "editor.rulers": [
+            100
+        ],
+    }
+}
